@@ -72,5 +72,5 @@ $$\sigma^2_X = \sum_x (x - m_X)^2 P(X = x)$$
 ### 期待値, 平均, 分散
 
 - **標本平均**とは日常ででてくる「平均」のこと
-- 標本平均 $X$ とは観測されたデータ $D = {x^1, \cdots , x^(|D|)}$ に対して
-$$\bar{X} = \frac{1}{|D|} \sum_{x^(i) \in D} x^(i)$$
+- 標本平均 $X$ とは観測されたデータ $D = {\Bigl x^1, \cdots , x^\bigl(|D|\bigr)}\Bigr$ に対して
+$$\bar{X} = \frac{1}{|D|} \sum_{x^(\bigl i )\bigr \in D} x^(i)$$
